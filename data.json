@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Omar",
+    "email": "omarfaruk@gmail.com",
+    "designation": "Software Engineer",
+    "phone": "01700000000",
+    "address": "Dhaka, Bangladesh",
+    "salary": "50000",
+    "joining_date": "2020-01-01",
+    "photo": "https://i.imgur.com/3gYvUHx.png",
+    "department": "IT"
+  },
+  {
+    "name": "Faruk",
+    "email": "omarfaruk@gmail.com",
+    "designation": "Software Engineer",
+    "phone": "01700000000",
+    "address": "Dhaka, Bangladesh",
+    "salary": "50000",
+    "joining_date": "2020-01-01",
+    "photo": "https://i.imgur.com/3gYvUHx.png",
+    "department": "IT"
+  },
+  {
+    "name": "omar faruk ",
+    "email": "omarfaruk@gmail.com",
+    "designation": "Software Engineer",
+    "phone": "01700000000",
+    "address": "Dhaka, Bangladesh",
+    "salary": "50000",
+    "joining_date": "2020-01-01",
+    "photo": "https://i.imgur.com/3gYvUHx.png",
+    "department": "IT"
+  },
+  {
+    "name": "Muhammad",
+    "email": "omarfaruk@gmail.com",
+    "designation": "Software Engineer",
+    "phone": "01700000000",
+    "address": "Dhaka, Bangladesh",
+    "salary": "50000",
+    "joining_date": "2020-01-01",
+    "photo": "https://i.imgur.com/3gYvUHx.png",
+    "department": "IT"
+  }
+]
